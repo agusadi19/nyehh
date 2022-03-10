@@ -16,7 +16,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': '23ec48dd1daaba37f34c076f'
   'https://api.xteam.xyz': 'benniismaelapikey',
   'https://melcanz.com': 'elaina',
   'https://api.lolhuman.xyz': 'rey2k21',
